@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("ASDF");
-        System.out.println();
+        System.out.println("나영 다은 수민 ㅎㅎㅎㅎ");
     }
 }
